@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "My Journey As a Developer"
+date:   2017-07-04
+excerpt: "I didn't choose to code, in some weird cosmic series of coincidences coding kind of chose me."
+image: "https://assets.entrepreneur.com/content/16x9/822/20141230193127-work.jpeg"
+tag:
+- code
+- development
+- blog
+---
+
+I didn't choose to code, in some weird cosmic series of coincidences coding kind of chose me. I had begun developing this concept of music composition that had never been done before, and somewhere along the way it became very apparent that in order to do this I would need a computer program. Initially I tried to find someone that would be able to code what I was seeing. I had built assets and diagrams, written out thorough explainations, and described every facet of this language that only existed in my head. Fortunately for me it became immediately apparent that I would have to build this thing, myself, from scratch and thus began my journey.
+
+I initially started dabbling in code in 2012. I was working at a dealership and [Codecademy](https://www.codecademy.com/) had just become a thing. I remember briefly trying [Ruby](https://www.ruby-lang.org/en/) and [Python](https://www.python.org/) which are both to this day two of my favorite languages. But during that time I just really wasn't dedicated to learning the craft. 
+
+Fast forward a few years and after having a series of seredipities I knew it was time to get serious. If this was going to happen I was going to have to build it. There wasn't anyone coming to help it was just me and my idea. I struggled for the first year, "What language should I write this in?" I started out learning Javascript, then suddenly that summer Apple announced Swift. I knew I wanted to be on mobile devices more than anything so I began learning Swift but with Swift being such a new language over time it became apparent I was standing on shaky ground. It didn't help that I didn't find Swift to be a particularly easy language to learn.
+
+Something made me double back to Ruby. I remember liking the syntax and when I went back to it I'd discovered that it was way easier for me to wrap my mind around it's concepts than Swift. I didn't need to understand the difference between a Struct and a Class there were only classes. I didn't need to know the difference between functions and methods there were only methods. So it was with this simplicity in mind that I dove into learning Ruby. 
+
+I would like to pause for a second and state that the premise that anyone can code is bullshit. Coding is no different than any other artform or craft in fact it's far more difficult than most. Anyone can print a value to a console but actually writing an application and knowing how it functions is a huge undertaking and it requires far more discipline than any of these Hour of Code campaigns let on. That's not to discourage any one from learning, in fact I  encourage my friends to start learning all the time. I just don't want that narrative of "Hey look this is so easy anyone can do it" to continue it's just not realistic.
+
+I stumbled across this God send completely by accident. I was in the middle of one of my long self teaching stints and I felt like I wasn't getting anywhere skill wise. I saw something about coding bootcamps but everything seemed to be priced far out of my budget. Then out of nowhere [LaunchSchool](https://launchschool.com/) was there. Great reviews seemed to be decently priced even if I would be cutting it close financially. Speaking of finances my bank account was on fumes by this point. I had left my job at Verizon to pursue this and my runway was running out. So this had to help me in my development or I was in trouble. Luckily for me this was the thing that made programming click for me. All of a sudden I understood how to do things that had previously escaped me for some reason. 
