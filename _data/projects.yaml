@@ -5,12 +5,12 @@
 
 - title: Raleigh Little Theater
   url: http://raleighlittletheatre.org/
-  image: images/rlt.png
+  image: images/project-images/rlt.png
   completed: true
 
 - title: New Kind
   url: http://newkind.com/
-  image: images/newkind.png
+  image: images/project-images/newkind.png
   completed: true
 
 # - title: Daisy Pelican Theme

@@ -26,11 +26,11 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 ::selection {
   color: #FFFFFF;
-  background: #4dbe7a; }
+  background: #FFC107; }
 
 ::-moz-selection {
   color: #FFFFFF;
-  background: #4dbe7a; }
+  background: #FFC107; }
 
 /* HTML5 display definitions
    ========================================================================== */
