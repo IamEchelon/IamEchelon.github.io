@@ -9,7 +9,7 @@ tag:
 - future
 ---
 
-I ponder a lot about JavaScript usually it goes something like "Wait… What? Why is that not… I hate this language. Who TF thought using this was a good idea?!" And every time that happens I inevitably end up asking myself "Why don't we do better than this?" Which is something that has always piqued my interest because I'm really good at taking small pieces of complex material, distilling them to their purest form, and building something better in the place of the old way of doing things. 
+I ponder a lot about JavaScript usually it goes something like "Wait… What? Why is that not… I hate this language. Who TF thought using this was a good idea?!" And every time that happens I inevitably end up asking myself "Why don't we do better than this?" Which is something that's always piqued my interest. I'm fairly good at taking small pieces of complex material, distilling them to their purest form, and building something better in the place of the old way of doing things. 
 
 What fascinates and infuriates me about developers is that for decades we have built stunningly beautiful and world altering ways to interface with computers. Yet we haven't even scratched the surface on what could be done if we turned that same eye towards our own trade and tools. It's 2017 how is it possible that text editors have barely changed? Sure there are way more plugins and fancy colors, but outside of that what's drastically different?
 
